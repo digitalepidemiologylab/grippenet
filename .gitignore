@@ -1,0 +1,8 @@
+.DS_Store
+.rbenv-version
+.sass-cache
+.bundle
+/vendor/bundle
+
+*.sublime-project
+*.sublime-workspace
